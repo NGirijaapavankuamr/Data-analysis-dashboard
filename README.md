@@ -8,9 +8,9 @@ Use data analysis and visualization to identify trends, patterns, and insights w
 <a href ="https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/content/data-analytics/Datasets_DA_Track/Amazon+retail+store+dataset.xlsx">Amzon Sales Dataset </a>
 
 ## Questions(KPIs
-> Total sales, total quantity, total profit and total shipment cost.
-> A column chart that shows the total sales by product category.
-> A line chart that shows the sales trend over time, with the X-axis displaying month and year, and the Y-axis displaying sales.
+> Total sales, total quantity, total profit and total shipment cost?
+> A column chart that shows the total sales by product category?
+> A line chart that shows the sales trend over time, with the X-axis displaying month and year, and the Y-axis displaying sales?
 > How do the sales and profits of each product category compare across different customer segments?
 > How do sales revenue and profit vary across different product categories and sub-categories?
 > How does the average discount percentage vary across different product sub-categories?
