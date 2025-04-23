@@ -27,3 +27,4 @@ Use data analysis and visualization to identify trends, patterns, and insights w
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 
 ## DashBoard
+![1687857255196](https://github.com/user-attachments/assets/7ea57839-9e0d-4d9a-8c1f-db9bc2fd0aef)
